@@ -3,8 +3,8 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 
-# Registro de Imagens e Automação de Planilhas do Excel e Arquivos Word com R
-<h2> [EN] Image Registration and Excel Spreadsheet and Word Documents Automation with R</h2>
+# Registro de Imagens e Automação de Planilhas do Excel/Arquivos Word com R
+<h2> [EN] Image Registration and Excel Spreadsheet/Word Documents Automation with R</h2>
 
 <p align="left">
   <a href="#english-translation">English Translation</a> •
